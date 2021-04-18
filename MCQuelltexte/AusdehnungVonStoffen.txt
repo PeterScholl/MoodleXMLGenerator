@@ -1,0 +1,69 @@
+Welche Flüssigkeit dehnt sich am schnellsten aus?
++Spiritus
+-Wasser
+-Pflanzenöl
+
+Welche Flüssigkeit dehnt sich am wenigsten aus?
++Wasser
+-Pflanzenöl
+-Spiritus
+
+Warum ist es bei Ausdehnungsexperimenten von Flüssigkeiten wichtig, dass sich keine Luftblasen im Kolben oder den Steigröhrchen befinden?
++die Luft dehnt sich anders aus als die Flüssigkeit und verfälscht dann das Ergebnis
+-die Luftblasen können die Temperatur beeinflussen#Durch umrühren wird auf gleichmäßige Temperatur geachtet
+-das kommt auf das Gas an - nur Sauerstoff ist problematisch#Das ist egal. Luft ist ohnehin ein Gasgemisch
+
+Was geschieht im allgemeinen mit der <b>Dichte</b> eines festen Körpers beim Erwärmen?
++die Dichte verringert sich#deshalb fliegen Heißluftballons
+-die Dichte bleibt gleich
+-die Dichte nimmt zu
+ 
+Was ist die Dichte eines Körpers?
++der Quotient aus Masse und Volumen
++ein Wert der Angibt, wie viel Masse sich auf einer Volumeneinheit (z.B. einem cm³) befindet
+-der Quotient aus Volumen und Zeit#Zeit spielt hier keine Rolle
+ 
+Ein Stahlmaßband zeigt die richtige Länge an, wenn es die Temperatur von 20°C besitzt. Nun wird eine Messung bei sehr niedriger Temperatur durchgeführt. Was ist richtig?
++Bei niedriger Temperatur ist der am Maßband angezeigte Wert größer als diewirkliche Länge.
+-Auch bei niedriger Temperatur stimmt der am Maßband angezeigte Wert und die wirkliche Länge überein.
+-Bei niedriger Temperatur ist der am Maßband angezeigte Wert geringer als die wirkliche Länge.
+ 
+Welches der folgenden Phänomene wird hauptsächlich durch die Ausdehnung eines festen Körpers verursacht?
++Stromleitungen hängen zwischen zwei Masten im Sommer stärker durch als im Winter
+-Holz springt häufig, wenn man es in einen warmen Raum bringt#das liegt am Feuchtigkeitsgehalt
+-das Eis von Gletschern wächst jedes Jahr ein Stück talwärts.#Gletscher bewegen sich auf Grund der Schwerkraft hangabwärts und Schmelzen wegen der Hitze ab. Ein Gletscher wird länger, wenn der Schmelzvorgang geringer als die Bewegung ist.
+-Erwärmt man einen gefüllten Luftballon, so dehnt er sich aus#das liegt an der Ausdehnung von Luft.
+
+Was geschieht, wenn beim Heissluftballon der Brenner die Luft im Ballon erhitzt?
++Das Ballonvolumen bleibt gleich.
++Luft verläßt den Ballon.
+-Das Ballonvolumen wird größer.#Das geht nicht, da die Aussenhülle ein festes Volumen vorgibt
+-Die Luftmasse im Ballon bleibt gleich.#da heiße Luft sich ausdehnt braucht sie mehr Platz und wird aus der Ballonhülle gedrückt
+-Es kommt zusätzliche Luft in den Ballon.#Da die erwärmte Luft im Ballon sich ausdehnt strömt sie aus dem Ballon heraus
+
+Auf welchem Prinzip gründet das abgebildete Selbstbauthermometer mit einer luftgefüllten Flasche?
+-Das Thermometer nutzt die Ausdehnung von Flüssigkeiten zur Temperaturunterscheidung.#Die Luft dehnt sich aus - es ist gar nicht viel Wasser im Schlauch.
++Das Thermometer nutzt die Ausdehnung von Gasen zur Temperaturunterscheidung.#Die Luft in der Flasche dehnt sich am schnellsten aus
+-Das Thermometer nutzt die Auddehnung von Festkörpern zur Temperaturunterscheidung.#Die Festkörper dehnen sich bei geringfügiger Temperaturänderung kaum aus.
+#Beim Erwärmen dehnt sich die Luft (Gas) in der Flasche aus und drückt den "Wasserfaden" im dünnen Schlauch von der Flasche weg. An der Höhe des "Wasserfadens" kann man die Temperatur ablesen.
+
+Was geschieht, wenn Eis schmilzt?
++Die Masse bleibt gleich
+-Das Volumen wird größer#Wasser (Eis) hat sein kleinstes Volumen bei 4°, d.h. zunächst wird das Volumen kleiner
+-Das Volumen bleibt gleich#Es wird geringer (Anomalie des Wassers)
+-Die Masse wird geringer#Es verschwindet kein Wasser (höchstens wenn es direkt verdampft und "verschwindet")
+-Die Masse wird größer#Es kommt kein Wasser dazu
++Das Volumen wird geringer#Bei Wasser nimmt das Volumen beim schmelzen (0°) ab, bis es auf 4° erwärmt wurde.
+
+Gib die zutreffende der folgenden vier Aussagen an.
++Gase dehnen sich meist viel stärker aus als Flüssigkeiten und Flüssigkeiten dehnen sich meist stärker aus als Festkörper. 
+-Flüssigkeiten dehnen sich meist stärker aus als Festkörper und Festkörper dehnen sich meist stärker aus als Gase.
+-Flüssigkeiten dehnen sich meist stärker aus als Gase und Gase dehnen sich meist stärker aus als Festkörper.
+-Gase dehnen sich meist viel stärker aus als Festkörper und Festkörper dehnen sich meist stärker aus als Flüssigkeiten. 
+
+Friert ein See oder das Meer zu, so bilden sich auf Grund der Temperaturschwankungen zwischen Tag und Nacht Spalten. Welche der folgenden Aussagen sind richtig?
+-Wenn es Nachts sehr kalt ist, schließen sich die Spalten.#wenn es sehr kalt ist, zieht sich das Eis zusammen
+-Wenn es Tags warm wird, reissen die Spalten und öffnen sich.#wenn es warm (aber Minustemperaturen) wird dehnt sich das Eis aus
++Wenn es Tags warm wird, schließen sich die Spalten.#Da sich das Eis ausdehnt (es bleibt aber gefroren - Minustemperaturen)
++Wenn es nachts sehr kalt ist, reissen die Spalten und öffnen sich.#da sich das Eis zusammenzieht.
+#Wenn es nachts kalt wird, zieht sich das Eis zusammen und es bilden sich Spalten, die an großen Seen wie dem Ammersee bis zu einem Meter breit sein können. Wenn es Tags über wieder warm wird, schieben sich die Spalten wieder zu, wobei sie nicht immer genau die ürsprüngliche Naht treffen und es kommt zu Verwerfungen und Übereinanderschiebungen

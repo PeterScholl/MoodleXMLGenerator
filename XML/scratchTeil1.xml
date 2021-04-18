@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<question type="multichoice">
+  <name>
+    <text>Welche Attribute hat eine Scratch-Figur?</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[Welche Attribute hat eine Scratch-Figur?]]></text>
+  </questiontext>
+  <generalfeedback format="html">
+    <text><![CDATA[]]></text>
+  </generalfeedback>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <idnumber></idnumber>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <correctfeedback format="moodle_auto_format">
+    <text></text>
+  </correctfeedback>
+  <partiallycorrectfeedback format="moodle_auto_format">
+    <text></text>
+  </partiallycorrectfeedback>
+  <incorrectfeedback format="moodle_auto_format">
+    <text></text>
+  </incorrectfeedback>
+  <answernumbering>none</answernumbering>
+  <answer fraction="25.0000">
+    <text>Größe</text>
+  </answer>
+  <answer fraction="25.0000">
+    <text>x- und y-Koordinate</text>
+  </answer>
+  <answer fraction="-25.0000">
+    <text>Farbe</text>
+  </answer>
+  <answer fraction="25.0000">
+    <text>Richtung</text>
+  </answer>
+  <answer fraction="-25.0000">
+    <text>Form</text>
+  </answer>
+  <answer fraction="25.0000">
+    <text>Name</text>
+  </answer>
+  <answer fraction="-25.0000">
+    <text>Alter</text>
+  </answer>
+  <answer fraction="-25.0000">
+    <text>Geschwister</text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>Was sind die Koordinatenbereiche von Scratch?</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[Was sind die Koordinatenbereiche von Scratch?]]></text>
+  </questiontext>
+  <generalfeedback format="html">
+    <text><![CDATA[]]></text>
+  </generalfeedback>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <idnumber></idnumber>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <correctfeedback format="moodle_auto_format">
+    <text></text>
+  </correctfeedback>
+  <partiallycorrectfeedback format="moodle_auto_format">
+    <text></text>
+  </partiallycorrectfeedback>
+  <incorrectfeedback format="moodle_auto_format">
+    <text></text>
+  </incorrectfeedback>
+  <answernumbering>none</answernumbering>
+  <answer format="html" fraction="100.0">
+    <text><![CDATA[ -240&lt;x&lt;240 und -180&lt;y&lt;180]]></text>
+  </answer>
+  <answer format="html" fraction="0.0">
+    <text><![CDATA[ -200&lt;x&lt;200 und -280&lt;y&lt;280]]></text>
+  </answer>
+  <answer format="html" fraction="0.0">
+    <text><![CDATA[ -180&lt;x&lt;180 und -200&lt;y&lt;200]]></text>
+  </answer>
+  <answer format="html" fraction="0.0">
+    <text><![CDATA[ -220&lt;x&lt;220 und -240&lt;y&lt;240]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>Wie heißt der Hintergrund bei Scratch?</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[Wie heißt der Hintergrund bei Scratch?]]></text>
+  </questiontext>
+  <generalfeedback format="html">
+    <text><![CDATA[]]></text>
+  </generalfeedback>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <idnumber></idnumber>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <correctfeedback format="moodle_auto_format">
+    <text></text>
+  </correctfeedback>
+  <partiallycorrectfeedback format="moodle_auto_format">
+    <text></text>
+  </partiallycorrectfeedback>
+  <incorrectfeedback format="moodle_auto_format">
+    <text></text>
+  </incorrectfeedback>
+  <answernumbering>none</answernumbering>
+  <answer fraction="100.0">
+    <text>Bühne/Bühnenbild</text>
+  </answer>
+  <answer fraction="0.0">
+    <text>Hintergrund/Hintergrundbild</text>
+  </answer>
+  <answer fraction="0.0">
+    <text>Raum</text>
+  </answer>
+  <answer fraction="0.0">
+    <text>Theater</text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>Wie heißen verschiedene Darstellungen der gleichen Scratch-Figur?</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[Wie heißen verschiedene Darstellungen der gleichen Scratch-Figur?]]></text>
+  </questiontext>
+  <generalfeedback format="html">
+    <text><![CDATA[]]></text>
+  </generalfeedback>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <idnumber></idnumber>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <correctfeedback format="moodle_auto_format">
+    <text></text>
+  </correctfeedback>
+  <partiallycorrectfeedback format="moodle_auto_format">
+    <text></text>
+  </partiallycorrectfeedback>
+  <incorrectfeedback format="moodle_auto_format">
+    <text></text>
+  </incorrectfeedback>
+  <answernumbering>none</answernumbering>
+  <answer fraction="100.0">
+    <text>Kostüm</text>
+  </answer>
+  <answer fraction="0.0">
+    <text>Schablone</text>
+  </answer>
+  <answer fraction="0.0">
+    <text>Form</text>
+  </answer>
+  <answer fraction="0.0">
+    <text>Gestalt</text>
+  </answer>
+  <answer fraction="0.0">
+    <text>Darstellung</text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>Welche Möglichkeiten für den Bewegungsmodus (die Bewegungsrichtung) gibt es bei einer Scratch-Figur? Hierzu klickt man auf den Wert Richtung der Figur.</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[Welche Möglichkeiten für den Bewegungsmodus (die Bewegungsrichtung) gibt es bei einer Scratch-Figur? Hierzu klickt man auf den Wert Richtung der Figur.]]></text>
+  </questiontext>
+  <generalfeedback format="html">
+    <text><![CDATA[]]></text>
+  </generalfeedback>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <idnumber></idnumber>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <correctfeedback format="moodle_auto_format">
+    <text></text>
+  </correctfeedback>
+  <partiallycorrectfeedback format="moodle_auto_format">
+    <text></text>
+  </partiallycorrectfeedback>
+  <incorrectfeedback format="moodle_auto_format">
+    <text></text>
+  </incorrectfeedback>
+  <answernumbering>none</answernumbering>
+  <answer fraction="33.3333">
+    <text>Links/Rechts</text>
+  </answer>
+  <answer fraction="-25.0000">
+    <text>Hoch/Runter</text>
+  </answer>
+  <answer fraction="33.3333">
+    <text>Rundherum</text>
+  </answer>
+  <answer fraction="33.3333">
+    <text>Nicht drehen</text>
+  </answer>
+  <answer fraction="-25.0000">
+    <text>Kreiseln</text>
+  </answer>
+  <answer fraction="-25.0000">
+    <text>Springen</text>
+  </answer>
+  <answer fraction="-25.0000">
+    <text>Gleiten</text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>Mit welchen Befehlsblöcken werden Nachrichten zwichen Scratch-Figuren ausgetauscht auf die die Figuren auch reagieren können?</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[Mit welchen Befehlsblöcken werden Nachrichten zwichen Scratch-Figuren ausgetauscht auf die die Figuren auch reagieren können?]]></text>
+  </questiontext>
+  <generalfeedback format="html">
+    <text><![CDATA[]]></text>
+  </generalfeedback>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <idnumber></idnumber>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <correctfeedback format="moodle_auto_format">
+    <text></text>
+  </correctfeedback>
+  <partiallycorrectfeedback format="moodle_auto_format">
+    <text></text>
+  </partiallycorrectfeedback>
+  <incorrectfeedback format="moodle_auto_format">
+    <text></text>
+  </incorrectfeedback>
+  <answernumbering>none</answernumbering>
+  <answer fraction="50.0000">
+    <text>sende</text>
+  </answer>
+  <answer fraction="-25.0000">
+    <text>sage</text>
+  </answer>
+  <answer fraction="-25.0000">
+    <text>spiele</text>
+  </answer>
+  <answer fraction="50.0000">
+    <text>wenn ich ... empfange</text>
+  </answer>
+  <answer fraction="-25.0000">
+    <text>wenn ich ... höre</text>
+  </answer>
+  <answer fraction="-25.0000">
+    <text>wenn ich ... sehe</text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>Welche Ereignisse können in Scratch-Programmen auftreten?</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[Welche Ereignisse können in Scratch-Programmen auftreten?]]></text>
+  </questiontext>
+  <generalfeedback format="html">
+    <text><![CDATA[]]></text>
+  </generalfeedback>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <idnumber></idnumber>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <correctfeedback format="moodle_auto_format">
+    <text></text>
+  </correctfeedback>
+  <partiallycorrectfeedback format="moodle_auto_format">
+    <text></text>
+  </partiallycorrectfeedback>
+  <incorrectfeedback format="moodle_auto_format">
+    <text></text>
+  </incorrectfeedback>
+  <answernumbering>none</answernumbering>
+  <answer fraction="25.0000">
+    <text>die grüne Fahne wird angeklickt</text>
+  </answer>
+  <answer fraction="-25.0000">
+    <text>die rote Fahne wird angeklickt</text>
+    <feedback>
+      <text>es gibt nur die grüne Fahne - der rote Knopf beendet alles</text>
+    </feedback>
+  </answer>
+  <answer fraction="25.0000">
+    <text>eine Taste wird gedrückt</text>
+  </answer>
+  <answer fraction="-25.0000">
+    <text>ein Fenster wird geschlossen</text>
+    <feedback>
+      <text>dann ist meistens das ganze Programm beendet</text>
+    </feedback>
+  </answer>
+  <answer fraction="25.0000">
+    <text>eine Figur wird angeklickt</text>
+  </answer>
+  <answer fraction="-25.0000">
+    <text>eine Figur wird mit der Maus bewegt</text>
+    <feedback>
+      <text>darauf kann das Programm nicht reagieren</text>
+    </feedback>
+  </answer>
+  <answer fraction="25.0000">
+    <text>eine Nachricht wird empfangen</text>
+  </answer>
+  <answer fraction="-25.0000">
+    <text>eine Nachricht wird gesendet</text>
+    <feedback>
+      <text>Das ist eine Aktion, darauf muss nicht reagiert werden</text>
+    </feedback>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>Welche der folgenden Dinge sind Objekte in Scratch?</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[Welche der folgenden Dinge sind Objekte in Scratch?]]></text>
+  </questiontext>
+  <generalfeedback format="html">
+    <text><![CDATA[]]></text>
+  </generalfeedback>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <idnumber></idnumber>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <correctfeedback format="moodle_auto_format">
+    <text></text>
+  </correctfeedback>
+  <partiallycorrectfeedback format="moodle_auto_format">
+    <text></text>
+  </partiallycorrectfeedback>
+  <incorrectfeedback format="moodle_auto_format">
+    <text></text>
+  </incorrectfeedback>
+  <answernumbering>none</answernumbering>
+  <answer fraction="50.0000">
+    <text>Figuren</text>
+  </answer>
+  <answer fraction="50.0000">
+    <text>Kitti</text>
+  </answer>
+  <answer fraction="-20.0000">
+    <text>sende ... an alle</text>
+  </answer>
+  <answer fraction="-20.0000">
+    <text>gehe 10 Schritte</text>
+  </answer>
+  <answer fraction="-20.0000">
+    <text>eine Taste wird gedrückt</text>
+  </answer>
+  <answer fraction="-20.0000">
+    <text>die grüne Fahne wird angeklickt</text>
+  </answer>
+  <answer fraction="-20.0000">
+    <text>sage "Hallo"</text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>Welche der folgenden Dinge sind Anweisungen in Scratch?</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[Welche der folgenden Dinge sind Anweisungen in Scratch?]]></text>
+  </questiontext>
+  <generalfeedback format="html">
+    <text><![CDATA[]]></text>
+  </generalfeedback>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <idnumber></idnumber>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <correctfeedback format="moodle_auto_format">
+    <text></text>
+  </correctfeedback>
+  <partiallycorrectfeedback format="moodle_auto_format">
+    <text></text>
+  </partiallycorrectfeedback>
+  <incorrectfeedback format="moodle_auto_format">
+    <text></text>
+  </incorrectfeedback>
+  <answernumbering>none</answernumbering>
+  <answer fraction="-25.0000">
+    <text>Figuren</text>
+  </answer>
+  <answer fraction="-25.0000">
+    <text>Kitti</text>
+  </answer>
+  <answer fraction="33.3333">
+    <text>sende ... an alle</text>
+  </answer>
+  <answer fraction="33.3333">
+    <text>gehe 10 Schritte</text>
+  </answer>
+  <answer fraction="-25.0000">
+    <text>eine Taste wird gedrückt</text>
+  </answer>
+  <answer fraction="-25.0000">
+    <text>die grüne Fahne wird angeklickt</text>
+  </answer>
+  <answer fraction="33.3333">
+    <text>sage "Hallo"</text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>Welche der folgenden Dinge sind Ereignisse in Scratch?</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[Welche der folgenden Dinge sind Ereignisse in Scratch?]]></text>
+  </questiontext>
+  <generalfeedback format="html">
+    <text><![CDATA[]]></text>
+  </generalfeedback>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <idnumber></idnumber>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <correctfeedback format="moodle_auto_format">
+    <text></text>
+  </correctfeedback>
+  <partiallycorrectfeedback format="moodle_auto_format">
+    <text></text>
+  </partiallycorrectfeedback>
+  <incorrectfeedback format="moodle_auto_format">
+    <text></text>
+  </incorrectfeedback>
+  <answernumbering>none</answernumbering>
+  <answer fraction="-20.0000">
+    <text>Figuren</text>
+  </answer>
+  <answer fraction="-20.0000">
+    <text>Kitti</text>
+  </answer>
+  <answer fraction="-20.0000">
+    <text>sende ... an alle</text>
+  </answer>
+  <answer fraction="-20.0000">
+    <text>gehe 10 Schritte</text>
+  </answer>
+  <answer fraction="50.0000">
+    <text>eine Taste wird gedrückt</text>
+  </answer>
+  <answer fraction="50.0000">
+    <text>die grüne Fahne wird angeklickt</text>
+  </answer>
+  <answer fraction="-20.0000">
+    <text>sage "Hallo"</text>
+  </answer>
+</question>
+
+</quiz>
+

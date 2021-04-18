@@ -1,0 +1,82 @@
+Welche Attribute hat eine Scratch-Figur?
++Größe
++x- und y-Koordinate
+-Farbe
++Richtung
+-Form
++Name
+-Alter
+-Geschwister
+
+Was sind die Koordinatenbereiche von Scratch?
++ -240&lt;x&lt;240 und -180&lt;y&lt;180
+- -200&lt;x&lt;200 und -280&lt;y&lt;280
+- -180&lt;x&lt;180 und -200&lt;y&lt;200
+- -220&lt;x&lt;220 und -240&lt;y&lt;240
+
+Wie heißt der Hintergrund bei Scratch?
++Bühne/Bühnenbild
+-Hintergrund/Hintergrundbild
+-Raum
+-Theater
+
+Wie heißen verschiedene Darstellungen der gleichen Scratch-Figur?
++Kostüm
+-Schablone
+-Form
+-Gestalt
+-Darstellung
+
+Welche Möglichkeiten für den Bewegungsmodus (die Bewegungsrichtung) gibt es bei einer Scratch-Figur? Hierzu klickt man auf den Wert Richtung der Figur.
++Links/Rechts
+-Hoch/Runter
++Rundherum
++Nicht drehen
+-Kreiseln
+-Springen
+-Gleiten
+
+Mit welchen Befehlsblöcken werden Nachrichten zwichen Scratch-Figuren ausgetauscht auf die die Figuren auch reagieren können?
++sende
+-sage
+-spiele
++wenn ich ... empfange
+-wenn ich ... höre
+-wenn ich ... sehe
+
+Welche Ereignisse können in Scratch-Programmen auftreten?
++die grüne Fahne wird angeklickt
+-die rote Fahne wird angeklickt#es gibt nur die grüne Fahne - der rote Knopf beendet alles
++eine Taste wird gedrückt
+-ein Fenster wird geschlossen#dann ist meistens das ganze Programm beendet
++eine Figur wird angeklickt
+-eine Figur wird mit der Maus bewegt#darauf kann das Programm nicht reagieren
++eine Nachricht wird empfangen
+-eine Nachricht wird gesendet#Das ist eine Aktion, darauf muss nicht reagiert werden
+
+Welche der folgenden Dinge sind Objekte in Scratch?
++Figuren
++Kitti
+-sende ... an alle
+-gehe 10 Schritte
+-eine Taste wird gedrückt
+-die grüne Fahne wird angeklickt
+-sage "Hallo"
+
+Welche der folgenden Dinge sind Anweisungen in Scratch?
+-Figuren
+-Kitti
++sende ... an alle
++gehe 10 Schritte
+-eine Taste wird gedrückt
+-die grüne Fahne wird angeklickt
++sage "Hallo"
+
+Welche der folgenden Dinge sind Ereignisse in Scratch?
+-Figuren
+-Kitti
+-sende ... an alle
+-gehe 10 Schritte
++eine Taste wird gedrückt
++die grüne Fahne wird angeklickt
+-sage "Hallo"
