@@ -6,11 +6,11 @@ I started this tool to create Quiz-Files for moodle-Tests with a bunch of questi
 If you like, you can use the code for your own purposes. The help/documentation is very low but I hope most of the features are self-explanatory.
 
 # kurz-Anleitung bzw. Schnell-Einstieg
--jar-Datei herunterladen und mit Java starten
--Im Hilfe-Menü auf Multiple-Choice Vorlage klicken
--diese durchlesen/anpassen
--Im Quiz-Menu auf "MultiChoice nach Quiz konvertieren" klicken
--Bei Datei auf "XML-Datei speichern" klicken und 
--diese in die moodle-Datenbank importieren
+1. jar-Datei herunterladen und mit Java starten
+2. Im Hilfe-Menü auf Multiple-Choice Vorlage klicken
+3. diese durchlesen/anpassen
+4. Im Quiz-Menu auf "MultiChoice nach Quiz konvertieren" klicken
+5. Bei Datei auf "XML-Datei speichern" klicken und 
+6. diese in die moodle-Datenbank importieren
 
 Wenn die Idee Freude macht, sich mit den Hinweisen zum Datensatz und zur XML-Schablone beschäftigen. Vielleicht wird es ja mal irgendwann eine Anleitung geben.
