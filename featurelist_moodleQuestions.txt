@@ -1,0 +1,17 @@
+
+************* Offen *************
+#003 Verbesserung der Fragedarstellung (in dem zugehörigen Dialog)
+#004 Export der in XML importierten Quiz-Fragen in eine MC-Datei (zwecks Übersicht, Speicherung, weitergabe?)
+#005 Kopfzeile bei Datensatz ein/ausschalten (Selectierbarer Eintrag im Menü)
+#006 Erklärung der Datensatz-Funktionalität
+#007 Erstellung einer Anleitung
+#008 CDATA-Tag direkt bei XML-Objekt einpflegen (wird dann automatisch gesetzt)
+#009 Question to XML-Datei und diese dann in der XML-Datei anzeigen
+#010 Das löschen von Fragen mit der Taste ENTF erklären bzw. auch ins Kontext-Menü packen
+#011 Das Fragen-Tool in ein eigenes GIT-Projekt packen
+#012 Webseite für die Fragesammlungen erstellen (Lehrer-Berechtigungen ...)
+#013 Question-Generatoren aus der Generator-Klasse in das GUI integrieren
+
+************* Erledigt **********
+#001 Ability to delete questions from list (by pressing Entf)
+#002 Edit Database before using
