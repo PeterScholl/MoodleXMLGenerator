@@ -1,3 +1,9 @@
+# Projektspezifische files
+*.txt
+*.xml
+*.csv
+*.ods
+
 # Compiled class file
 *.class
 

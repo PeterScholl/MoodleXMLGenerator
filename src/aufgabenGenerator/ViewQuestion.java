@@ -5,8 +5,6 @@ import javax.swing.border.Border;
 import javax.swing.text.html.HTMLEditorKit;
 
 import java.awt.*;
-import java.io.IOException;
-import java.net.URL;
 import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
@@ -14,7 +12,6 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Base64;
-import java.util.Locale;
 
 /**
  * Klasse um zu einer Frage (Question) eine Darstellung anzuzeigen

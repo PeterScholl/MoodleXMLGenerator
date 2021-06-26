@@ -1,9 +1,14 @@
 package aufgabenGenerator;
 
+import generatoren.Ganzzahl;
+
 public class Starter {
 
 	public static void main(String[] args) {
-		testQuestionXML();
+		Ganzzahl e = new Ganzzahl();
+		e.define();
+		System.out.println("Auswertung von "+e.getName()+": "+e.evaluate());
+		//testQuestionXML();
 		System.exit(0);
 		
 		Quiz q = new Quiz();

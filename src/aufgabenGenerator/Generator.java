@@ -1,14 +1,14 @@
 package aufgabenGenerator;
 
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
 import java.io.ByteArrayInputStream;
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.io.FileWriter;
+import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
 import java.util.Locale;
 
@@ -513,10 +513,8 @@ public class Generator {
 			reader.close();
 			return quiz;
 		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		return null;
@@ -564,10 +562,12 @@ public class Generator {
 		}
 		try {
 
-			FileWriter fw = null;
-			fw = new FileWriter(chooser.getSelectedFile().getAbsolutePath());
+			//FileWriter fw = null;
+			//fw = new FileWriter(chooser.getSelectedFile().getAbsolutePath());
+			FileOutputStream fw = new FileOutputStream(chooser.getSelectedFile().getAbsolutePath());
+			OutputStreamWriter writer = new OutputStreamWriter(fw, "UTF-8");
 
-			BufferedWriter writer = new BufferedWriter(fw);
+			//BufferedWriter writer = new BufferedWriter(fw);
 			PrintWriter pwriter = new PrintWriter(writer);
 			
 			pwriter.println(q.toString());

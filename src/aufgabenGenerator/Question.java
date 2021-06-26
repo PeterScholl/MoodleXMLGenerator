@@ -347,6 +347,7 @@ public class Question {
 		deepCheckField(xmldata, fieldsequence, defaultvalue, new String[] {});
 	}
 
+	@SuppressWarnings("unused")
 	private void deepCheckField(String[] fieldsequence, String defaultvalue, String[] allowedvalues) {
 		deepCheckField(xmldata, fieldsequence, defaultvalue, allowedvalues);
 	}
