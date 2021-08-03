@@ -16,6 +16,8 @@ import java.util.Map;
 import javax.swing.JFileChooser;
 
 public class Dateiaktionen {
+	private static String workingDirectory = System.getProperty("user.dir");
+	
 	public static String liesTextDatei(File file) {
 		try {
 			FileReader fr = null;
@@ -132,7 +134,7 @@ public class Dateiaktionen {
 
 		// JFileChooser-Objekt erstellen
 		JFileChooser chooser = new JFileChooser();
-		chooser.setCurrentDirectory(new File("."));
+		chooser.setCurrentDirectory(new File(workingDirectory));
 		// Dialog zum Oeffnen von Dateien anzeigen
 		int rueckgabeWert = chooser.showOpenDialog(null);
 
@@ -141,6 +143,7 @@ public class Dateiaktionen {
 			// Ausgabe der ausgewaehlten Datei
 			// System.out.println("Die zu öffnende Datei ist: " +
 			// chooser.getSelectedFile().getName());
+			workingDirectory=chooser.getSelectedFile().getAbsolutePath();
 		} else {
 			System.out.println("Programm beendet - keine Datei gewählt");
 			return null;
