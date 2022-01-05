@@ -416,7 +416,8 @@ public class Generator {
 	 */
 	public static String replaceWithStrings(String s, String[] z) {
 		String out = s;
-		for (int i=0; i<z.length; i++) {
+		// starts with biggest numer so #1 isnt used where #11 is meant
+		for (int i=z.length-1; i>=0; i--) {
 			out = out.replaceAll("#"+(i+1), z[i]);
 		}
 		return out;

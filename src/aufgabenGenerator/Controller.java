@@ -21,7 +21,7 @@ public class Controller {
 	public static final int Datensatz_lesen = 5; // Eine csv-Datenbank lesen
 	public static final int Testfunktion = 6; // Eine Testfunktion, die man ggf. Nutzen kann
 	public static final int XMLToQuiz = 7; // XMLzuQuiz konvertieren
-	public static final int XMLToQuizDS = 8; // XMLzuQuiz konvertieren
+	public static final int XMLToQuizDS = 8; // XMLzuQuiz konvertieren (mit Datenbank)
 	public static final int Question_anzeigen = 9; // Frage anzeigen
 	public static final int Delete_Questions = 10; // Fragen die als String[] übergeben wurden werden gelöscht
 	public static final int MCToQuiz = 11; // MultipleChoice to Quiz konvertieren
