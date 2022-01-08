@@ -20,6 +20,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 public class Generator {
 	private static java.util.Random rand = new java.util.Random();
 	private static String filename="";
+	private static String workingSaveDirectory = System.getProperty("user.dir");
 
 
 	/**
@@ -536,7 +537,8 @@ public class Generator {
 		
 		// JFileChooser-Objekt erstellen
 		JFileChooser chooser = new JFileChooser();
-		chooser.setCurrentDirectory(new File("."));
+		//chooser.setCurrentDirectory(new File("."));
+		chooser.setCurrentDirectory(new File(workingSaveDirectory));
 		System.out.println("Current filename: "+Controller.curfilename);
 		String fname = Controller.curfilename.replaceAll(".[a-z]*$", "");
 		chooser.setSelectedFile(new File("./"+fname+".xml"));
@@ -551,6 +553,7 @@ public class Generator {
 			System.out.println("Auswahl beendet - keine Datei gewählt");
 			return;
 		}
+		workingSaveDirectory=chooser.getSelectedFile().getAbsolutePath();
 		//Wenn Datei schon existiert
 		if (chooser.getSelectedFile().exists()) {
 		    int response = JOptionPane.showConfirmDialog(null, //
