@@ -28,9 +28,9 @@ public class View implements MouseListener, KeyListener {
 	private JTextArea textareaDB;
 	private JScrollPane scrollPaneTextAreaDB;
 	private boolean debug=true;
-	private final static String infotext = "Tool zum einfachen Erstellen von moodle-Tests\nVersion 0.2 von Peter Scholl\npeter.scholl@aeg-online.de\n"
+	private final static String infotext = "Tool zum einfachen Erstellen von moodle-Tests\nVersion 0.3 von Peter Scholl\npeter.scholl@aeg-online.de\n"
 			+ "\nHinweis: bei der Datensatz-Verwendung werden die Felder durch #1,#2,... angegeben, dabei steht #1 für "
-			+ "den Wert in der ersten Spalte.";
+			+ "den Wert in der ersten Spalte.\nDie erste Zeile des Datensatzes wird nicht mit verarbeitet";
 
 	/**
 	 * Constructor for objects of class GUI

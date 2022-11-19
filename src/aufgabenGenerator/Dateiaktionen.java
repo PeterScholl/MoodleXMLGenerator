@@ -63,8 +63,9 @@ public class Dateiaktionen {
 			boolean topline = true; // needed if the first line contains comments
 			while (line != null) {
 				// System.out.println("> "+line);
-				if (!topline || !line.startsWith("#")) {
+				if (topline) {
 					topline = false;
+				} else if (!line.startsWith("#") && line.length()>1) {
 					String[] linesplit = line.split(";");
 					if (size >= 0 && size != linesplit.length) {
 						reader.close();

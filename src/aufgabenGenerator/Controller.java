@@ -37,7 +37,7 @@ public class Controller {
 
 	public static void main(String[] args) {
 		Controller c = new Controller();
-		View v = new View(c, "XML-Questiongenerator for moodle V 0.1");
+		View v = new View(c, "XML-Questiongenerator for moodle V 0.3");
 		c.view = v;
 	}
 
